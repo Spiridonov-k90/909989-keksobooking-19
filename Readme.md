@@ -1,7 +1,7 @@
 # Личный проект «Кексобукинг» [![Build status][travis-image]][travis-url]
 
 * Студент: [Кирилл Спиридонов](https://up.htmlacademy.ru/javascript/19/user/909989).
-* Наставник: `Неизвестно`.
+* Наставник: Отсутствует.
 
 ---
 
